@@ -1,6 +1,8 @@
 gpsConstellation
 ================
 
+![alt tag](screen.png)
+
 gpsConstellation is a software written in C and OpenGL to simulate the satellites' orbits of the Global Positioning System.
 
 This software was developed by me in 2011 to the final work for Computer Engineering bachelor at University of Sao Paulo (USP), entitled "Study of the Global Positioning System".
@@ -15,7 +17,7 @@ Next steps of this project are:
 
 	3. Expand this Readme with:
 		3.1 GPS concepts applied in the real world system, 
-		3.2 Screens of the application (for those who don't want to compile it)
+		Feito --->>> 3.2 Screens of the application (for those who don't want to compile it)
 		3.3 Math explanation applied to the real world system and its simplified implementation in this code;
 		3.4 More interesting stuff...
 
